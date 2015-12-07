@@ -1,0 +1,23 @@
+{
+  "name": "mikeyhew.pylint",
+  "description": "",
+  "version": "0.0.1",
+  "author": "Michael Hewson",
+  "contributors": [
+    {
+      "name": "Michael Hewson",
+      "email": "mah957@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "plugins": {
+    "pylint": {
+      "venv-folder": "/home/ubuntu/workspace/Python/venv"
+      }
+  },
+  "categories": ["miscellaneous"],
+  "licenses": []
+}
